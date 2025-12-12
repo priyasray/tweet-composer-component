@@ -8,14 +8,6 @@ The primary feature of this project is the implementation of dedicated **Light M
 
 ***
 
-## 💡 Practice Project Context
-
-This component was built as a practice project to reinforce front-end development skills, with a focus on:
-
-* Advanced CSS styling for complex UI elements.
-* Implementing a simple yet effective **Dark Mode** toggle/theme switch using CSS variables or class toggling (as suggested by the visual result).
-* Mastering layout techniques like **Flexbox** for aligning profile pictures, text areas, and action icons.
-
 ## Features Showcase
 
 * **Dual Themes:** Fully styled Light Mode and Dark Mode versions of the component.
